@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: profiles
 permalink: /bio/
 title: bio
 description: a little about me
