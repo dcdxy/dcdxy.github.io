@@ -9,4 +9,5 @@ I'm looking for opportunities to branch more into ML and Deep Learning.
 
 My labmates have become accustomed to my obsession with green and white teas and the mini garden (jungle?) I've grown in lab.
 When taking screen breaks, I enjoy playing with my two sweet floofs, discovering cute shops in Boston, watching musical theatre, playing pickup futsal, dancing, drawing, and recording music.
+I'm bilingual in French and English, and I'm currently learning Mandarin.
 
