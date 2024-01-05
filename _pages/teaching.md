@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-Teaching Fellow for MCB112 Fall 2022.
+Teaching Fellow for MCB112 in Fall 2022.
