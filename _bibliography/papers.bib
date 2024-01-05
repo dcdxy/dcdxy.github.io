@@ -51,7 +51,6 @@ volume = "1",
 journal = "Cell Genomics",
 issn = "2666-979X",
 publisher = "Cell Press",
-number = "2",
 preview = {smiling-cat-typing.gif}
 }
 
@@ -64,7 +63,6 @@ preview = {smiling-cat-typing.gif}
     number = {13},
     pages = {3327-3336},
     year = {2022},
-    month = {05},
     abstract = "{Bioinformatics software tools operate largely through the use of specialized genomics file formats. Often these formats lack formal specification, making it difficult or impossible for the creators of these tools to robustly test them for correct handling of input and output. This causes problems in interoperability between different tools that, at best, wastes time and frustrates users. At worst, interoperability issues could lead to undetected errors in scientific results.We developed a new verification system, Acidbio, which tests for correct behavior in bioinformatics software packages. We crafted tests to unify correct behavior when tools encounter various edge cases—potentially unexpected inputs that exemplify the limits of the format. To analyze the performance of existing software, we tested the input validation of 80 Bioconda packages that parsed the Browser Extensible Data (BED) format. We also used a fuzzing approach to automatically perform additional testing. Of 80 software packages examined, 75 achieved less than 70\\% correctness on our test suite. We categorized multiple root causes for the poor performance of different types of software. Fuzzing detected other errors that the manually designed test suite could not. We also created a badge system that developers can use to indicate more precisely which BED variants their software accepts and to advertise the software’s performance on the test suite.Acidbio is available at https://github.com/hoffmangroup/acidbio.Supplementary data are available at Bioinformatics online.}",
     issn = {1367-4803},
     doi = {10.1093/bioinformatics/btac327},
@@ -79,6 +77,7 @@ preview = {smiling-cat-typing.gif}
     author = {Park, Junseok and Maury, Eduardo A and Oh, Changhoon and Shin Donghoon and Denisko, Danielle and Lee, Eunjung Alice},
     title = {Genomic data processing with GenomeFlow},
     journal = {BMC Bioinformatics},
+    year = {2024},
     abstract = {Advances in genome sequencing technologies generate massive amounts of sequence data that are increasingly analyzed and shared through public repositories. On-demand infrastructure services on cloud computing platforms enable the processing of such large-scale genomic sequence data in distributed processing environments with a significant reduction in analysis time. However, parallel processing on cloud computing platforms presents many challenges to researchers, even skillful bioinformaticians. In particular, it is difficult to design a computing architecture optimized to reduce the cost of computing and disk storage as genomic data analysis pipelines often employ many heterogeneous tools with different resource requirements. To address these issues, we developed GenomeFlow, a tool for automated development of computing architecture and resource optimization on Google Cloud Platform, which allows users to process a large number of samples at minimal cost. We outline multiple use cases of GenomeFlow demonstrating its utility to significantly reduce computing time and cost associated with analyzing genomic and transcriptomic data from hundreds to tens of thousands of samples from several consortia. Here, we describe a step-by-step protocol on how to use GenomeFlow for a common genomic data processing task. We introduce this example protocol geared toward a bioinformatician with little experience in cloud computing and large data processing and estimate that it will take <1 hour to execute.},
     preview = {ponyo-ponyo-on-the-cliff.gif}
 }
