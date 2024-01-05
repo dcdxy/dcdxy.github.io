@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: Harvard University, Boston, MA, USA
-      year: 2020-
+      year: 2020 -
       description:
         - title: Non-canonical roles of transposable elements in human evolution and disease
           contents:
@@ -21,16 +21,16 @@
     
     - title: MSc
       institution: University of Toronto, Toronto, ON, Canada
-      year: 2017-2019
+      year: 2017 - 2019
       description:
         - title: Motif elucidation in ChIP-seq datasets with a knockout control
           contents:
             - Advised by Michael M. Hoffman
             - Department of Medical Biophysics
     
-      - title: Honours BSc
+    - title: Honours BSc
       institution: Trinity College in the University of Toronto, Toronto, ON, Canada
-      year: 2013-2017
+      year: 2013 - 2017
       description:
         - title: Specialist in Biological Physics, Minor in Mathematics 
           contents:
