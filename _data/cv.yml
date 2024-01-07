@@ -69,16 +69,19 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Computational methods development for solving biological problems
+      items:
+        - Especially basic biology mechanisms
     - title: Transposable elements
       items: 
-        - Alternative splicing
-        - Functional impact
+        - Roles in mediating alternative splicing
+        - Functional impact of insertions
     - title: Epigenomics
       items:
-        - Integrate multiple modalities e.g. ChIP-seq, ATAC-seq, Hi-C
-        - Methods development
+        - Integrating multiple modalities e.g. ChIP-seq, ATAC-seq, Hi-C
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Piano, soccer, ballet, singing
+    - <u>Hobbies:</u> Piano, soccer, ballet, musical theatre, singing, portraiture sketching, exploring & trying new things
+    - <u>Favourite things:</u> Hedgehogs, cats, white tea, Ghibli movies, astrobiology, plants, cute bookstores & cafes
