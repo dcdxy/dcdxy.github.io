@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-Teaching Fellow for <a hef="https://mcb112.org">MCB112</a> in Fall 2022.
+Teaching Fellow for [MCB112](https://mcb112.org) in Fall 2022.
