@@ -5,9 +5,9 @@ I'm currently based in Boston pursing a PhD in bioinformatics at Harvard Univers
 
 I really enjoy studying basic biology mechanisms by using computational and statistical methods.
 I also love analyzing and visualizing data using the latest Python libraries. 
-I'm looking for opportunities to branch more into ML and Deep Learning.
+I'm looking for opportunities to branch more into Machine Learning and Deep Learning.
 
 My labmates have become accustomed to my obsession with green and white teas and the mini garden (jungle?) I've grown in lab.
 When taking screen breaks, I enjoy playing with my two sweet floofs, discovering cute shops in Boston, watching musical theatre, playing pickup futsal, dancing, drawing, and recording music.
-I'm bilingual in French and English, and I'm currently learning Mandarin.
+I'm bilingual in English and French, and I'm currently learning Mandarin.
 
