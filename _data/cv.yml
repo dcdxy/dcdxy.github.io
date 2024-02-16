@@ -69,6 +69,31 @@
     - year: 2018 - 2019
       items: 
         - Ontario Graduate Scholarship
+        - * $15,000 for three consecutive sessions; awarded to 3,000 applicants across Canada per year
+    - year: 2018 - 2019
+      items: 
+        - MBP Excellence OSOTF Scholarship (University of Toronto)
+    - year: 2018
+      items: 
+        - SGS Conference Grant (University of TorontoO
+    - year: 2017 - 2018
+      items: 
+        - "NSERC Canada Graduate Scholarships-Master's"
+      - year: 2017 - 2018
+      items: 
+        - The Princess Margaret Hospital Foundation Graduate Fellowships in Cancer Research OSOTF
+      - year: 20187 - 2018
+      items: 
+        - Graduate and Life Sciences Education Merit Entrace Scholarship (University of Toronto)
+      - year: 2017
+      items: 
+        - "The Provost's Scholar Award (Trinity College)"
+      - year: 2016 - 2017
+      items: 
+        - Fraser-Crawford Scholarship (Trinity College)
+      - year: 2018 - 2019
+      items: 
+        - George Luste Prize in Biological Physics (for the top student in the program; University of Toronto)
 
 - title: Academic Interests
   type: nested_list
