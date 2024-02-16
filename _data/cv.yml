@@ -51,7 +51,7 @@
       institution: Harvard University, Boston, MA, USA
       year: Fall 2022
       description:
-        - Course <a href="https://mcb112.org">MCB112</a> Biological Data Analysis
+        - <a href="https://mcb112.org">MCB112</a> Biological Data Analysis
         - Taught by Sean Eddy
 
 - title: Open Source Projects
@@ -67,6 +67,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - 4DN Hackathon Travel Stipend
     - year: 2018 - 2019
       items: 
         - <b>Ontario Graduate Scholarship</b> 
