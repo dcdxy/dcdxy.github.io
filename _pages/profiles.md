@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /bio/
 title: bio
-description: a little about me
+description: A little about me
 nav: true
 nav_order: 7
 
