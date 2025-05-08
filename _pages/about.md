@@ -21,4 +21,5 @@ I'm a PhD candidate in the Bioinformatics and Integrative Genomics program at Ha
 <span style="font-family: Arial, sans-serif; font-size: 18px;">
   #Data scientist #Machine learning engineer #Software engineer
 </span>
+
 <i>Looking for full-time positions starting in early 2026! Please get in touch :)</i> danielle [dot] denisko [at] gmail.com
