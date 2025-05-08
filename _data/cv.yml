@@ -36,6 +36,7 @@
         - title: Cumulative GPA of 3.93/4.00  
           contents:
             - Specialist in Biological Physics
+              - Award for top-performing student
             - Minor in Mathematics
 
 - title: Experience
@@ -45,7 +46,7 @@
       institution: nference Canada, Toronto, ON, Canada
       year: 2019-2020
       description:
-        - Developed an epigenomics application for clinicians and scientists
+        - Developed an epigenomics application for clinicians and scientists to better understand disease
   
     - title: Teaching Fellow
       institution: Harvard University, Boston, MA, USA
@@ -57,6 +58,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/dcdxy/inverted_alus">Inverted Alus</a>
+      year: 2019
+      description: Jupyter notebooks for statistical analysis of "jumping genes" and RNA splicing
     - title: <a href="https://github.com/hoffmangroup/peako">peaKO</a>
       year: 2019
       description: PeaKO discovers motifs in ChIP-seq datasets with knockout controls
