@@ -35,8 +35,7 @@
       description:
         - title: Cumulative GPA of 3.93/4.00  
           contents:
-            - Specialist in Biological Physics
-              - Award for top-performing student
+            - Specialist in Biological Physics <i>(Award for top-performing student)</i>
             - Minor in Mathematics
 
 - title: Experience
@@ -137,5 +136,5 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Piano, pickup and intramural futsal at HMS, running, ballet, singing, portraiture sketching, exploring Boston/Toronto & trying new things
-    - <u>Favourite things:</u> Anything related to hedgehogs and cats, green tea (ask me how many mugs I own :D), Ghibli movies, Stardew Valley, bike riding, stargazing, trying to keep my plants happy, organizing & cleaning, visiting cute bookstores & cafes
+    - <u>Hobbies:</u> Playing with my kittycats, pickup and intramural futsal at HMS, piano, running, ballet, singing, portraiture sketching, exploring Boston/Toronto & trying new things
+    - <u>Favourite things:</u> Anything related to hedgehogs and cats, green tea (ask me how many mugs I own :D), Ghibli movies, Stardew Valley, bike riding (Brompton crew?), stargazing, trying to keep my plants happy, organizing & cleaning, visiting cute bookstores & cafes
