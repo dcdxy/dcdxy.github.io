@@ -1,16 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: peaKO
+description: finding transcription factor binding motifs using knockout controls
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+PeaKO identifies motifs relevant to ChIP-seq experiments by combining two differential analysis approaches. It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
