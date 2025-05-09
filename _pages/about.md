@@ -22,5 +22,5 @@ I'm a PhD candidate in the Bioinformatics and Integrative Genomics program at Ha
 
 
 <span style="font-family: Arial, sans-serif; font-size: 18px;">
-  #Data scientist #Machine learning engineer #Software engineer
+  #Data_scientist #Machine_learning_engineer #Software_engineer
 </span>
