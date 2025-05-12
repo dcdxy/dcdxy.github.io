@@ -2,10 +2,15 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Some of my GitHub repos and projects. My username is <a href="https://github.com/dcdxy">@dcdxy</a>.
+description: Some of my GitHub repos and projects. My username is @dcdxy.
 nav: true
 nav_order: 4
 ---
+
+My profile: <a href="https://github.com/dcdxy" target="_blank">
+  <i class="fab fa-github fa-lg"></i>
+</a>
+
 
 ## GitHub users
 
