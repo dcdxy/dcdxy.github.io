@@ -91,20 +91,21 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
     </div>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
+To install peaKO, follow the <a href="https://github.com/hoffmangroup/peako">steps on GitHub</a>:
 {% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+```bash
+conda create --name peako
+conda activate peako # or source activate peako
+conda install python=3.7
+conda install -c anaconda beautifulsoup4=4.7 pandas
+conda install -c bioconda -c conda-forge -c anaconda snakemake-minimal flake8 pathlib2 ipython twine
+conda install -c bioconda pybedtools
+
+python3 -m pip install peako
+
+peako --help
+
+# Usage: peako <outdir> <wt-bam> <ko-bam> <organism> <chr-sizes> <trf-masked-genome> <motif-database> [options]
 ```
 {% endraw %}
