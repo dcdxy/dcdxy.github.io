@@ -19,14 +19,14 @@ related_publications: peaKO
 
 I developed peaKO during my MSc at the University of Toronto. I used Snakemake to write the main workflow that ties together a series of Python scripts. The name "peaKO" (pee-koh) comes from "peak" and "KO" (knockout), but it's also a reference to the name my grandma would have chosen for a hedgehog, as in "orange pekoe" :)
 
-[//]: # "Comment"
+[//]: # "style='height: 400px; object-fit: cover;'"
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" style="height: 400px; object-fit: cover;" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig3.jpeg" title="peaKO Figure 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_images/peako_fig3.jpeg" title="peaKO Figure 3" class="img-fluid rounded z-depth-1" style="height: 400px; object-fit: cover;" %}
     </div>
 </div>
 <div class="caption">
