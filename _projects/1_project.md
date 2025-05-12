@@ -35,6 +35,31 @@ I developed peaKO during my MSc at the University of Toronto. I used Snakemake t
 
 <b>Longer description:</b> PeaKO is a computational method for identifying transcription factor binding motifs from wild-type/knockout paired ChIP-seq datasets. PeaKO optimizes motif analyses by implementing a dual-pipeline approach. The first pipeline incorporates differential motif analysis, while the second incorporates differential peak calling. We combined these pipelines to select for motifs that both have consistent matches within peaks and fall within regions of significant read pileup. PeaKO computes a new metric based on the proportion of overlapping peaks between both pipelines, with overlaps interpreted as genuine binding events. PeaKO uses this metric to rank a collection of known or <i>de novo</i> motifs, where top-ranked motifs are thought to be relevant to the ChIP-seq experiment.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html 
+            path="assets/img/project_images/peako_fig1.jpeg" 
+            title="peaKO Figure 1" 
+            class="custom-fixed-image img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html 
+            path="assets/img/project_images/peako_fig3.jpeg" 
+            title="peaKO Figure 3" 
+            class="custom-fixed-image img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<style>
+.custom-fixed-image {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+</style>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_images/peako_fig2.jpeg" title="peaKO Figure 2" class="img-fluid rounded z-depth-1" %}
