@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "peaKO"
+title: peaKO
 description: Finding transcription factor binding motifs using knockout controls
 img: assets/img/project_images/peako_fig1.jpeg
 importance: 1
@@ -17,6 +17,7 @@ related_publications: peaKO
     background-color: white;
 }
 </style>
+
 <style>
 .custom-fixed-short-image {
     height: 150px;
