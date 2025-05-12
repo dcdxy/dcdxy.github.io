@@ -2,7 +2,7 @@
 layout: page
 title: peaKO
 description: Finding transcription factor binding motifs using knockout controls
-img: assets/img/12.jpg
+img: assets/img/project_images/peako_fig1.jpeg
 importance: 1
 category: work
 related_publications: peaKO
@@ -15,6 +15,8 @@ related_publications: peaKO
     ---
 
 I developed peaKO during my MSc at the University of Toronto. I used Snakemake to write the main workflow that ties together a series of Python scripts. The name "peaKO" comes from "peak" and "KO", but it's also a reference to the name my grandma would have chosen for a hedgehog :)
+
+[//]: # "Comment"
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,7 +34,7 @@ I developed peaKO during my MSc at the University of Toronto. I used Snakemake t
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,7 +48,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
