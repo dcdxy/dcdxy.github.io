@@ -2,7 +2,7 @@
 layout: page
 title: peaKO
 description: Finding transcription factor binding motifs using knockout controls
-img: assets/img/project_images/peako_fig1.jpeg
+img: assets/img/project_images/peako_fig1_border.jpeg
 importance: 1
 category: work
 related_publications: peaKO
