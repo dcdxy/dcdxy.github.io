@@ -8,7 +8,7 @@ category: work
 related_publications: peaKO
 ---
 
-<b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls. <a href="https://hoffmanlab.org/proj/peako/"<Click here for a detailed description page.</a>
+<b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls. <a href="https://hoffmanlab.org/proj/peako/">Click here for a detailed description page.</a>
 
     ---
     Denisko D, Viner C, Hoffman MM. 
