@@ -105,7 +105,7 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
     </div>
 </div>
 <div class="caption">
-    Comparing motif rankings across methods (left), highlighting an example (GATA3 transcription factor) in which peaKO outperforms other methods (centre), using input controls instead of knockout controls, which give rise to worse rankings (right).
+    Comparing motif rankings across methods (left), highlighting an example (GATA3 transcription factor) in which peaKO outperforms other methods (center), using input controls instead of knockout controls, which give rise to worse rankings (right).
 </div>
 
 To install peaKO, follow the <a href="https://github.com/hoffmangroup/peako">steps on GitHub</a>:
