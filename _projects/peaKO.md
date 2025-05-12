@@ -37,8 +37,15 @@ related_publications: peaKO
     Available from: https://doi.org/10.1093/bioadv/vbad031.
     ---
 
+Quick links: 
 <a href="https://github.com/hoffmangroup/peako" target="_blank">
   <i class="fab fa-github fa-lg"></i>
+</a>
+<a href="https://hoffmanlab.org/proj/peako/" target="_blank">
+  <i class="fas fa-globe fa-lg"></i>
+</a>
+<a href="https://pypi.org/project/peako/" target="_blank">
+  <i class="fab fa-python fa-lg"></i>
 </a>
 
 I developed peaKO during my MSc at the University of Toronto. I used `Snakemake` to write the main workflow that ties together a series of `Python` scripts. It works with `Slurm` scheduling or just locally. The name "peaKO" (pee-koh) comes from "peak" and "KO" (knockout), but it's also a reference to the name my grandma would have chosen for a hedgehog, as in "orange pekoe" :)
