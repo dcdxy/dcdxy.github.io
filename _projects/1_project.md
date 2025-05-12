@@ -21,34 +21,6 @@ I developed peaKO during my MSc at the University of Toronto. I used Snakemake t
 
 [//]: # "Comment"
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" %}
@@ -61,6 +33,19 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     Overview of peaKO (left) and the similarity of <i>de novo</i> motifs to canonical known motifs (right).
 </div>
 
+<b>Longer description:</b> PeaKO is a computational method for identifying transcription factor binding motifs from wild-type/knockout paired ChIP-seq datasets. PeaKO optimizes motif analyses by implementing a dual-pipeline approach. The first pipeline incorporates differential motif analysis, while the second incorporates differential peak calling. We combined these pipelines to select for motifs that both have consistent matches within peaks and fall within regions of significant read pileup. PeaKO computes a new metric based on the proportion of overlapping peaks between both pipelines, with overlaps interpreted as genuine binding events. PeaKO uses this metric to rank a collection of known or <i>de novo</i> motifs, where top-ranked motifs are thought to be relevant to the ChIP-seq experiment.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_images/peako_fig2.jpeg" title="peaKO Figure 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_images/peako_fig4.jpeg" title="peaKO Figure 4" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_images/peako_fig6.jpeg" title="peaKO Figure 6" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
