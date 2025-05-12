@@ -50,6 +50,25 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
     </div>
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <a href="assets/img/project_images/peako_fig1.jpeg" target="_blank">
+            {% include figure.html 
+                path="assets/img/project_images/peako_fig1.jpeg" 
+                title="peaKO Figure 1" 
+                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <a href="assets/img/project_images/peako_fig3.jpeg" target="_blank">
+            {% include figure.html 
+                path="assets/img/project_images/peako_fig3.jpeg" 
+                title="peaKO Figure 3" 
+                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+
 <style>
 .custom-fixed-image {
     height: 300px;
@@ -59,6 +78,7 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
     background-color: white;
 }
 </style>
+
 
 
 <div class="row">
