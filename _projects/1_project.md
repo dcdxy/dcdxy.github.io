@@ -8,6 +8,16 @@ category: work
 related_publications: peaKO
 ---
 
+<style>
+.custom-fixed-image {
+    height: 300px;
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+    background-color: white;
+}
+</style>
+
 <b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls. <a href="https://hoffmanlab.org/proj/peako/">Click here for a detailed description page.</a>
 
     ---
@@ -23,10 +33,20 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" style="height: 400px; object-fit: cover;" %}
+        <a href="/assets/img/project_images/peako_fig1.jpeg" target="_blank">
+            {% include figure.html 
+                path="assets/img/project_images/peako_fig1.jpeg" 
+                title="peaKO Figure 1" 
+                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+        </a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig3.jpeg" title="peaKO Figure 3" class="img-fluid rounded z-depth-1" style="height: 400px; object-fit: cover;" %}
+        <a href="/assets/img/project_images/peako_fig3.jpeg" target="_blank">
+            {% include figure.html 
+                path="assets/img/project_images/peako_fig3.jpeg" 
+                title="peaKO Figure 3" 
+                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 <div class="caption">
@@ -51,45 +71,29 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <a href="assets/img/project_images/peako_fig1.jpeg" target="_blank">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="assets/img/project_images/peako_fig2.jpeg" target="_blank">
             {% include figure.html 
-                path="assets/img/project_images/peako_fig1.jpeg" 
-                title="peaKO Figure 1" 
+                path="assets/img/project_images/peako_fig2.jpeg" 
+                title="peaKO Figure 2" 
                 class="custom-fixed-image img-fluid rounded z-depth-1" %}
         </a>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <a href="assets/img/project_images/peako_fig3.jpeg" target="_blank">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="assets/img/project_images/peako_fig4.jpeg" target="_blank">
             {% include figure.html 
-                path="assets/img/project_images/peako_fig3.jpeg" 
-                title="peaKO Figure 3" 
+                path="assets/img/project_images/peako_fig4.jpeg" 
+                title="peaKO Figure 4" 
                 class="custom-fixed-image img-fluid rounded z-depth-1" %}
         </a>
     </div>
-</div>
-
-<style>
-.custom-fixed-image {
-    height: 300px;
-    width: 100%;
-    object-fit: contain;
-    object-position: center;
-    background-color: white;
-}
-</style>
-
-
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig2.jpeg" title="peaKO Figure 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig4.jpeg" title="peaKO Figure 4" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_images/peako_fig6.jpeg" title="peaKO Figure 6" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/project_images/peako_fig6.jpeg" target="_blank">
+            {% include figure.html 
+                path="assets/img/project_images/peako_fig6.jpeg" 
+                title="peaKO Figure 6" 
+                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 
