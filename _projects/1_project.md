@@ -1,23 +1,20 @@
 ---
 layout: page
 title: peaKO
-description: finding transcription factor binding motifs using knockout controls
+description: Finding transcription factor binding motifs using knockout controls
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: peaKO
 ---
 
-<b>PeaKO identifies motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls.
+<b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls.
+
+    ---
+    Denisko D, Viner C, Hoffman MM. Motif elucidation in ChIP-seq datasets with a knockout control. Bioinformatics Advances, 2023. Available from: https://doi.org/10.1093/bioadv/vbad031.
+    ---
 
 I developed peaKO during my MSc at the University of Toronto. I used Snakemake to write the main workflow that ties together a series of Python scripts. The name "peaKO" comes from "peak" and "KO", but it's also a reference to the name my grandma would have chosen for a hedgehog :)
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
