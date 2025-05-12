@@ -54,8 +54,9 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
 .custom-fixed-image {
     height: 300px;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
     object-position: center;
+    background-color: white;
 }
 </style>
 
