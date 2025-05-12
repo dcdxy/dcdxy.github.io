@@ -1,6 +1,6 @@
 ---
 layout: page
-title: peaKO
+title: "peaKO"
 description: Finding transcription factor binding motifs using knockout controls
 img: assets/img/project_images/peako_fig1.jpeg
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: peaKO
 ---
 
-<b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls.
+<b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls. <a href="https://hoffmanlab.org/proj/peako/"<Click here for a detailed description page.</a>
 
     ---
     Denisko D, Viner C, Hoffman MM. 
@@ -17,7 +17,7 @@ related_publications: peaKO
     Available from: https://doi.org/10.1093/bioadv/vbad031.
     ---
 
-I developed peaKO during my MSc at the University of Toronto. I used Snakemake to write the main workflow that ties together a series of Python scripts. The name "peaKO" comes from "peak" and "KO", but it's also a reference to the name my grandma would have chosen for a hedgehog :)
+I developed peaKO during my MSc at the University of Toronto. I used Snakemake to write the main workflow that ties together a series of Python scripts. The name "peaKO" (pee-koh) comes from "peak" and "KO" (knockout), but it's also a reference to the name my grandma would have chosen for a hedgehog, as in "orange pekoe" :)
 
 [//]: # "Comment"
 
@@ -54,11 +54,11 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
         {% include figure.html path="assets/img/project_images/peako_fig1.jpeg" title="peaKO Figure 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_images/peako_fig3.jpeg" title="peaKO Figure 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Overview of peaKO (left) and the similarity of <i>de novo</i> motifs to canonical known motifs (right).
 </div>
 
 
