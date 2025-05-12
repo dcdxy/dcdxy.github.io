@@ -52,6 +52,8 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
 
 [//]: # "style='height: 400px; object-fit: cover;'"
 
+[//]: # "To generate padded images: convert peako_fig1.jpeg -bordercolor white -border 50x50 peako_fig1_border.jpeg"
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         <a href="/assets/img/project_images/peako_fig1.jpeg" target="_blank">
