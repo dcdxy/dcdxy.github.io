@@ -17,6 +17,15 @@ related_publications: peaKO
     background-color: white;
 }
 </style>
+<style>
+.custom-fixed-short-image {
+    height: 150px;
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+    background-color: white;
+}
+</style>
 
 <b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls. <a href="https://hoffmanlab.org/proj/peako/">Click here for a detailed description page.</a>
 
@@ -56,27 +65,12 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
 <b>Longer description:</b> PeaKO is a computational method for identifying transcription factor binding motifs from wild-type/knockout paired ChIP-seq datasets. PeaKO optimizes motif analyses by implementing a dual-pipeline approach. The first pipeline incorporates differential motif analysis, while the second incorporates differential peak calling. We combined these pipelines to select for motifs that both have consistent matches within peaks and fall within regions of significant read pileup. PeaKO computes a new metric based on the proportion of overlapping peaks between both pipelines, with overlaps interpreted as genuine binding events. PeaKO uses this metric to rank a collection of known or <i>de novo</i> motifs, where top-ranked motifs are thought to be relevant to the ChIP-seq experiment.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html 
-            path="assets/img/project_images/peako_fig1.jpeg" 
-            title="peaKO Figure 1" 
-            class="custom-fixed-image img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html 
-            path="assets/img/project_images/peako_fig3.jpeg" 
-            title="peaKO Figure 3" 
-            class="custom-fixed-image img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         <a href="assets/img/project_images/peako_fig2.jpeg" target="_blank">
             {% include figure.html 
                 path="assets/img/project_images/peako_fig2.jpeg" 
                 title="peaKO Figure 2" 
-                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+                class="custom-fixed-short-image img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -84,7 +78,7 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
             {% include figure.html 
                 path="assets/img/project_images/peako_fig4.jpeg" 
                 title="peaKO Figure 4" 
-                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+                class="custom-fixed-short-image img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -92,7 +86,7 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
             {% include figure.html 
                 path="assets/img/project_images/peako_fig6.jpeg" 
                 title="peaKO Figure 6" 
-                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+                class="custom-fixed-short-image img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
