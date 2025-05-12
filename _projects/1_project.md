@@ -11,7 +11,10 @@ related_publications: peaKO
 <b>PeaKO is a computational tool to identify motifs relevant to ChIP-seq experiments by combining two differential analysis approaches.</b> It often improves elucidation of the target motif over other methods and highlights the benefits of knockout controls.
 
     ---
-    Denisko D, Viner C, Hoffman MM. Motif elucidation in ChIP-seq datasets with a knockout control. Bioinformatics Advances, 2023. Available from: https://doi.org/10.1093/bioadv/vbad031.
+    Denisko D, Viner C, Hoffman MM. 
+    Motif elucidation in ChIP-seq datasets with a knockout control. 
+    Bioinformatics Advances, 2023. 
+    Available from: https://doi.org/10.1093/bioadv/vbad031.
     ---
 
 I developed peaKO during my MSc at the University of Toronto. I used Snakemake to write the main workflow that ties together a series of Python scripts. The name "peaKO" comes from "peak" and "KO", but it's also a reference to the name my grandma would have chosen for a hedgehog :)
