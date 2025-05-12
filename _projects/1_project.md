@@ -66,7 +66,7 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="assets/img/project_images/peako_fig2.jpeg" target="_blank">
+        <a href="/assets/img/project_images/peako_fig2.jpeg" target="_blank">
             {% include figure.html 
                 path="assets/img/project_images/peako_fig2.jpeg" 
                 title="peaKO Figure 2" 
@@ -74,7 +74,7 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="assets/img/project_images/peako_fig4.jpeg" target="_blank">
+        <a href="/assets/img/project_images/peako_fig4.jpeg" target="_blank">
             {% include figure.html 
                 path="assets/img/project_images/peako_fig4.jpeg" 
                 title="peaKO Figure 4" 
@@ -82,7 +82,7 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="assets/img/project_images/peako_fig6.jpeg" target="_blank">
+        <a href="/assets/img/project_images/peako_fig6.jpeg" target="_blank">
             {% include figure.html 
                 path="assets/img/project_images/peako_fig6.jpeg" 
                 title="peaKO Figure 6" 
@@ -90,9 +90,12 @@ I developed peaKO during my MSc at the University of Toronto. I used `Snakemake`
         </a>
     </div>
 </div>
-
+<div class="caption">
+    Comparing motif rankings across methods (left), highlighting an example (GATA3 transcription factor) in which peaKO outperforms other methods (centre), using input controls instead of knockout controls, which give rise to worse rankings (right).
+</div>
 
 To install peaKO, follow the <a href="https://github.com/hoffmangroup/peako">steps on GitHub</a>:
+
 {% raw %}
 ```bash
 conda create --name peako
