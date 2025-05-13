@@ -1,18 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Inverted Alus
+description: How mobile elements contribute to a new mechanism of splicing
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: IRAlu
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Changes in RNA splicing over the course of evolution have profoundly diversified the functional landscape of the human genome. While DNA sequences proximal to intron-exon junctions are known to be critical for RNA splicing, less is known about the impact of distal intronic sequences. We performed the first systematic assessment of the contribution of a specific type of mobile element pairs (called "Alus") in mediating loop-out exon skipping across the human genome. We further characterized the impact of these pairs on hominoid evolution.
 
     ---
     layout: page
