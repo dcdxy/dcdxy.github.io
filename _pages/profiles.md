@@ -14,11 +14,4 @@ profiles:
     content: about_danielle.md
     image_circular: true # crops the image to make it circular
     more_info:
-
-profiles:
-  - align: center
-    image: qr.png
-    content:
-    image_circular: false
-    more_info:
 ---
