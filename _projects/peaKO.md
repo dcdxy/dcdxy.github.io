@@ -34,7 +34,7 @@ related_publications: peaKO
     Denisko D, Viner C, Hoffman MM. 
     Motif elucidation in ChIP-seq datasets with a knockout control. 
     Bioinformatics Advances, 2023. 
-    Available from: [https://doi.org/10.1093/bioadv/vbad031](https://doi.org/10.1093/bioadv/vbad031).
+    Available from: https://doi.org/10.1093/bioadv/vbad031.
     ---
 
 Quick links: 
