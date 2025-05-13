@@ -22,6 +22,6 @@ Quick links:
   <i class="fab fa-github fa-lg"></i>
 </a>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11952303/" target="_blank">
-  <strong>bioRxiv</strong> <i class="fas fa-external-link-alt"></i>
+  <i class="fas fa-dna fa-lg" title="View on bioRxiv"></i>
 </a>
 
