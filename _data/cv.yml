@@ -57,12 +57,12 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/dcdxy/inverted_alus">Inverted Alus</a>
+    - title: <a href="https://github.com/dcdxy/inverted_alus">inverted Alus</a>
       year: 2019
       description: Jupyter notebooks for statistical analysis of "jumping genes" and RNA splicing
     - title: <a href="https://github.com/hoffmangroup/peako">peaKO</a>
       year: 2019
-      description: PeaKO discovers motifs in ChIP-seq datasets with knockout controls
+      description: PyPI package to discover motifs in ChIP-seq datasets with knockout controls
     - title: <a href="https://github.com/dcdxy/dcdxy.github.io">this website!</a>
       year: 2020 - 2024
       description: Based on the al-folio Jekyll theme
@@ -122,19 +122,26 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computational methods development for solving biological problems
+    - title: Computational methods development
       items:
-        - Especially basic biology mechanisms
-    - title: Transposable elements
+        - Deep learning and machine learning
+        - Working on classification fine-tuning using HyenaDNA LLM
+        - Interpretability of models (biological meaning)
+        - Developed a statistical method and tool for detecting motifs
+    - title: Understanding basic biological mechanisms
       items: 
-        - Roles in mediating alternative splicing
-        - Functional impact of insertions
-    - title: Epigenomics
+        - Alternative splicing
+        - Structural variation
+    - title: Multimodal data integration
       items:
-        - Integrating multiple modalities e.g. ChIP-seq, ATAC-seq, Hi-C
+        - Integrating different types of epigenomics data e.g. ChIP-seq, ATAC-seq, Hi-C
+    - title: Reproducible science
+      items:
+        - All of my repeated analyses are converted into Snakemake workflows
+        - Visualization and results in public well-documented Jupyter notebooks
 
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Playing with my kittycats, pickup and intramural futsal at HMS, piano, running, ballet, singing, portraiture sketching, exploring Boston/Toronto & trying new things
-    - <u>Favourite things:</u> Anything related to hedgehogs and cats, green tea (ask me how many mugs I own :D), Ghibli movies, Stardew Valley, bike riding (Brompton crew?), stargazing, trying to keep my plants happy, organizing & cleaning, visiting cute bookstores & cafes
+    - <u>Favourite things:</u> Anything related to hedgehogs and cats, green tea (ask me how many mugs I own :D), Ghibli movies, Stardew Valley, bike riding (love my Brompton), stargazing, trying to keep my plants happy, organizing & cleaning, visiting cute bookstores & cafes
