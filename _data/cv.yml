@@ -58,7 +58,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/dcdxy/inverted_alus">inverted Alus</a>
-      year: 2019
+      year: 2024
       description: Jupyter notebooks for statistical analysis of "jumping genes" and RNA splicing
     - title: <a href="https://github.com/hoffmangroup/peako">peaKO</a>
       year: 2019
