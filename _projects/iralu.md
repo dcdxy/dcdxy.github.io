@@ -8,7 +8,15 @@ category: work
 related_publications: IRAlu
 ---
 
-Changes in RNA splicing over the course of evolution have profoundly diversified the functional landscape of the human genome. While DNA sequences proximal to intron-exon junctions are known to be critical for RNA splicing, less is known about the impact of distal intronic sequences. We performed the first systematic assessment of the contribution of a specific type of mobile element pairs (called "Alus") in mediating loop-out exon skipping across the human genome. We further characterized the impact of these pairs on hominoid evolution.
+Splicing of RNA has evolved over time to promote diverse functions of the human genome.
+While we now have a good grasp of how sequences close to exons affect splicing, we do not know much about the effects of sequences that lie deeper within introns.
+
+During my PhD, I became interested in Alu elements which can form loop structures within RNA transcripts.
+Lots of work has investigated the impact of these Alu pair loops on immune response since they can be recognized by immune double-stranded DNA sensing elements.
+However, a recent n=1 case study purpoted the relevance of these Alu pair loops in splicing, specifically in mediating a new mechanism of splicing that involves looping out an exon that is flanked by two inverted Alu elements.
+Even more exciting was that this phenomenon seemed to have influenced the loss of tails in hominoids (aka us)!
+
+I love thinking about the shape of the genome and how different elements might interact, so I set out to perform a detailed and systematic analysis of all possible inverted Alu pairs across the human genome.
 
     ---
     Denisko D, Kim J, Ku J, Zhao B, Lee EA. 
@@ -25,3 +33,6 @@ Quick links:
   <i class="fas fa-dna fa-lg" title="View on bioRxiv"></i>
 </a>
 
+We performed the first systematic assessment of the contribution of a specific type of mobile element pairs (called "Alus") in mediating loop-out exon skipping across the human genome. We further characterized the impact of these pairs on hominoid evolution.
+
+I think there's so much more that can be done here (more features, more interactions, more layers...) so if you have any feedback I'd love to hear about it :) 
