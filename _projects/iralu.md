@@ -11,10 +11,11 @@ related_publications: IRAlu
 Splicing of RNA has evolved over time to promote diverse functions of the human genome.
 While we now have a good grasp of how sequences close to exons affect splicing, we do not know much about the effects of sequences that lie deeper within introns.
 
-During my PhD, I became interested in Alu elements which can form loop structures within RNA transcripts.
-Lots of work has investigated the impact of these Alu pair loops on immune response since they can be recognized by immune double-stranded DNA sensing elements.
-However, a recent n=1 case study purpoted the relevance of these Alu pair loops in splicing, specifically in mediating a new mechanism of splicing that involves looping out an exon that is flanked by two inverted Alu elements.
-Even more exciting was that this phenomenon seemed to have influenced the loss of tails in hominoids (aka us)!
+During my PhD, I became interested in Alu elements which can form loops within RNA transcripts.
+Lots of work has investigated the impact of these Alu pair loops on immune response since they can be recognized by immune double-stranded RNA sensing elements.
+Less is known, however, about their involvement in splicing.
+A recent n=1 case study purpoted the relevance of these Alu pair loops in splicing, specifically in mediating a new mechanism of splicing that involves looping out exons that are flanked by two inverted Alu elements.
+Even more exciting was that this phenomenon seemed to have influenced the loss of tails in hominoids (us)!
 
 I love thinking about the shape of the genome and how different elements might interact, so I set out to perform a detailed and systematic analysis of all possible inverted Alu pairs across the human genome.
 
