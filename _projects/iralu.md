@@ -12,6 +12,8 @@ Splicing of RNA has evolved over time to promote diverse functions of the human 
 While we now have a good grasp of how sequences close to exons affect splicing, we do not know much about the effects of sequences that lie deeper within introns.
 
 During my PhD, I became interested in Alu elements which can form loops within RNA transcripts.
+Alus are short repetitive mobile elements that "retrotranspose" or "copy-and-paste" themselves into the genome. 
+They remain active in the human genome to this day!
 Lots of work has investigated the impact of these Alu pair loops on immune response since they can be recognized by immune double-stranded RNA sensing elements.
 Less is known, however, about their involvement in splicing.
 A recent n=1 case study purpoted the relevance of these Alu pair loops in splicing, specifically in mediating a new mechanism of splicing that involves looping out exons that are flanked by two inverted Alu elements.
@@ -34,6 +36,7 @@ Quick links:
   <i class="fas fa-dna fa-lg" title="View on bioRxiv"></i>
 </a>
 
-We performed the first systematic assessment of the contribution of a specific type of mobile element pairs (called "Alus") in mediating loop-out exon skipping across the human genome. We further characterized the impact of these pairs on hominoid evolution.
 
-I think there's so much more that can be done here (more features, more interactions, more layers...) so if you have any feedback I'd love to hear about it :) 
+
+
+I think there's so much more that can be done here (more features, more interactions, more layers...) so feedback is always welcome :) 
