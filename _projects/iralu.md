@@ -17,7 +17,7 @@ They remain active in the human genome to this day!
 Lots of work has investigated the impact of these Alu pair loops on immune response since they can be recognized by immune double-stranded RNA sensing elements.
 Less is known, however, about their involvement in splicing.
 A recent n=1 case study purpoted the relevance of these Alu pair loops in splicing, specifically in mediating a new mechanism of splicing that involves looping out exons that are flanked by two inverted Alu elements.
-Even more exciting was that this phenomenon seemed to have influenced the loss of tails in hominoids (us)!
+Even more exciting was that this phenomenon seemed to have influenced the loss of tails in hominoids (i.e. us)!
 
 I love thinking about the shape of the genome and how different elements might interact, so I set out to perform a detailed and systematic analysis of all possible inverted Alu pairs across the human genome.
 
