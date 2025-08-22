@@ -36,7 +36,19 @@ Quick links:
   <i class="fas fa-dna fa-lg" title="View on bioRxiv"></i>
 </a>
 
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="/assets/img/project_images/figure1A-update-arrows-crop.svg" target="_blank">
+            {% include figure.html 
+                path="assets/img/project_images/figure1A-update-arrows-crop.svg" 
+                title="peaKO Figure 1"
+                class="custom-fixed-image img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+<div class="caption">
+    Identifying inverted pairs of fixed Alu elements in the human reference genome.
+</div>
 
 
 I think there's so much more that can be done here (more features, more interactions, more layers...) so feedback is always welcome :) 
