@@ -38,9 +38,9 @@ Quick links:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/img/project_images/figure1A-update-arrows-crop.svg" target="_blank">
+        <a href="/assets/img/project_images/figure1A-0821-crop.png" target="_blank">
             {% include figure.html 
-                path="assets/img/project_images/figure1A-update-arrows-crop.svg" 
+                path="assets/img/project_images/figure1A-0821-crop.png" 
                 title="peaKO Figure 1"
                 class="custom-fixed-image img-fluid rounded z-depth-1" %}
         </a>
